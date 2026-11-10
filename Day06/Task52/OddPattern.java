@@ -1,6 +1,6 @@
 class OddPattern{
 	public static void main(String args[]){
-		for(int y=1;y<=3;y++){
+		for(int y=1;y<=5;y++){
 			for(int x=1;x<=5;x++){
 					if(x%2==1){
 						System.out.print(x);
@@ -8,7 +8,7 @@ class OddPattern{
 						System.out.print("*");
 					}
 					
-				}
+			}
 			System.out.println();
 		}
 	}

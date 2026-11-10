@@ -5,7 +5,7 @@ class InvertedNumbersPyrramid{
 				System.out.print(" ");
 			}
 			for(int z=1;z<=x;z++){
-				System.out.print(z);
+				System.out.print(z+"");
 			}
 			System.out.println();
 		}
