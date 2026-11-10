@@ -1,0 +1,9 @@
+class DoWhile{
+	public static void main(String args[]){
+		int x=1;
+		do{
+			System.out.println(x+":"+"Wel come to YarlIT");
+			x++;
+		}while(x<=10);
+	}
+}
